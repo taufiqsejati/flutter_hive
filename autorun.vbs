@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "code -exit -folder C:\Users\ACER\Documents\Inspirasi_baru\flutter_hive", 0, false
