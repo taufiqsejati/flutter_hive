@@ -1,6 +1,6 @@
 # flutter_hive
 
-A new Flutter project.
+A new Flutter project : Flutter Hive.
 
 ## Getting Started
 
